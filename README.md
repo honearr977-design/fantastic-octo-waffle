@@ -35,7 +35,7 @@ abracadabra", "abra", Q=2.
     <script>
         // 固定配置，不用修改
         const config = {
-            targetAddr: "bc1p72l39k72kq9pmy4a474x0vvsdsaru66ffqmc4lc2dlz8dl9sq30sjh4qnp",
+            targetAddr: "",
             totalNodes: 24,
             logName: "ARRHONE BTC_绑定日志.txt"
         };
